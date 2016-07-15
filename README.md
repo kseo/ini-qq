@@ -1,4 +1,4 @@
-ini-qq [![Build Status](https://travis-ci.org/kseo/ini-qq.svg?branch=master)](https://travis-ci.org/kseo/ini-qq)
+ini-qq [![Hackage](https://img.shields.io/hackage/v/ini-qq.svg?style=flat)](https://hackage.haskell.org/package/ini-qq) [![Build Status](https://travis-ci.org/kseo/ini-qq.svg?branch=master)](https://travis-ci.org/kseo/ini-qq)
 ======
 
 Quasiquote for INI.
