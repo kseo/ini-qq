@@ -1,4 +1,4 @@
-ini-qq
+ini-qq [![Build Status](https://travis-ci.org/kseo/ini-qq.svg?branch=master)](https://travis-ci.org/kseo/ini-qq)
 ======
 
 Quasiquote for INI.
