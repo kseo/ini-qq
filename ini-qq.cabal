@@ -15,7 +15,7 @@ cabal-version:       >=1.10
 
 library
   hs-source-dirs:      src
-  exposed-modules:     Lib
+  exposed-modules:     Data.Ini.QQ
   build-depends:       base >= 4.7 && < 5
                      , ini >= 0.3 && < 0.4
                      , template-haskell >= 2.10
